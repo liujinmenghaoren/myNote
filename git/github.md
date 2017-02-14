@@ -37,6 +37,6 @@
   - 命令
 
 ## 启程目标
-![启程之旅的学习目标](img/beginTarget.jpg)
+![启程之旅的学习目标](../img/beginTarget.jpg)
 
 [返回目录](../README.md)

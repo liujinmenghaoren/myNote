@@ -1,4 +1,5 @@
 # 学习和使用 GitHub 的好处
+[返回目录](../README.md)
 
 ## GitHub 的优势
 - 只支持 git
@@ -37,3 +38,5 @@
 
 ## 启程目标
 ![启程之旅的学习目标](img/beginTarget.jpg)
+
+[返回目录](../README.md)

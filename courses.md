@@ -26,10 +26,3 @@
 |   24  |[GitHub 开源之旅第六季视频课程：how-to-markdown](http://edu.51cto.com/course/course_id-8513.html)|2小时5分钟|6|2017-04-16|
 |   25  |[信息科学基础（上篇）习题讲解视频课程](http://edu.51cto.com/course/course_id-8511.html)|5小时17分钟|38|2017-04-16|
 |   26  |[信息科学基础（下篇）习题讲解视频课程](http://edu.51cto.com/course/course_id-8836.html)|1小时41分钟|14| 2017-04-21|
-
-
-
-
-
-
-

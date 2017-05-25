@@ -3,7 +3,7 @@
 - [courses](courses.md)
 - [ITLog](ITLog.md)
 - [mituoLog](mituoLog.md)
-- [houses](houses.md)
+- [houses](houses.html)
 
 ## Git and GitHub
 - [关于 ignore 问题](https://github.com/liujinmenghaoren/myNote/blob/master/git/ignore.md)

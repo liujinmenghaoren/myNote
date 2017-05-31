@@ -7,6 +7,7 @@
 - [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)(中文)
 - [GitHub 2016 report](https://octoverse.github.com/)
 - [Overcome myself](plan.md)
+- [表情符号](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 
 ## Git and GitHub
 - [关于 ignore 问题](https://github.com/liujinmenghaoren/myNote/blob/master/git/ignore.md)

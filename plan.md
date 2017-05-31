@@ -34,8 +34,5 @@
 |28|29|30|31||||
 
 
-:smeil:
+完成目标用:white_check_mark:表示
 
-:complete:
-
-:white_check_mark:

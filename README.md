@@ -10,6 +10,7 @@
 - [关于 ignore 问题](https://github.com/liujinmenghaoren/myNote/blob/master/git/ignore.md)
 - [vim 编辑语法](git/vim.md)
 - [使用GitHub的好处](git/github.md)
+- [回退历史纪录](git/git pull.md)
 
 ## JavaScript
 - [关键字和保留字](JS/保留字和关键字.md)

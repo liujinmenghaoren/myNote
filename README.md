@@ -5,6 +5,8 @@
 - [GitHub 2016 report](https://octoverse.github.com/)
 - [表情符号](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 - [教案示例](https://github.com/wangding/courses/blob/backDoor/markdown/paper/01introduction.md)
+- [移动web开发
+](http://naotu.baidu.com/file/4c382f00b21f9e1c83399c9a5c553152)
 
 ## Git and GitHub
 - [关于 ignore 问题](https://github.com/liujinmenghaoren/myNote/blob/master/git/ignore.md)

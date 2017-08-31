@@ -4,10 +4,10 @@
 
 ### 学院要求
 
-![ppt1](image/PPT1.png)
-![ppt2](image/PPT2.png)
-![ppt3](image/PPT3.png)
-![ppt4](image/PPT4.png)
+![ppt1](./img/PPT1.png)
+![ppt2](./img/PPT2.png)
+![ppt3](./img/PPT3.png)
+![ppt4](./img/PPT4.png)
 
 下面是我们根据自己已有课件的格式整理的web（二）PPT制作规范
 

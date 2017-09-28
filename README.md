@@ -13,7 +13,8 @@
 - [vim 编辑语法](git/vim.md)
 - [使用GitHub的好处](git/github.md)
 - [回退历史纪录](git/gitPull.md)
-
+- [合并多个commit](http://www.jianshu.com/p/964de879904a)
+- 将本次提交合并到之前的提交中：git commit --amend -m “”
 ## JavaScript
 - [关键字和保留字](JS/保留字和关键字.md)
 - [运算符](JS/运算符.md)

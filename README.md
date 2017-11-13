@@ -10,11 +10,11 @@
 
 ## Git and GitHub
 - [关于 ignore 问题](https://github.com/liujinmenghaoren/myNote/blob/master/git/ignore.md)
-- [vim 编辑语法](git/vim.md)
+- [vim 常用快捷键](git/vim.md)
 - [使用GitHub的好处](git/github.md)
 - [回退历史纪录](git/gitPull.md)
-- [合并多个commit](http://www.jianshu.com/p/964de879904a)
-- 将本次提交合并到之前的提交中：git commit --amend -m “”
+- [git 常用命令](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
 ## JavaScript
 - [关键字和保留字](JS/保留字和关键字.md)
 - [运算符](JS/运算符.md)
